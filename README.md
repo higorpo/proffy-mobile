@@ -43,6 +43,8 @@ Veja os outros repositórios deste mesmo projeto:
 ## :fire: Como usar?
 <p>Para executar este projeto em sua máquina local existem alguns requisitos básicos. Você deve ter o Node.js instalado na sua versão mais recente e um gerenciador de pacotes Yarn ou NPM.</p>
 
+<b>*Você precisa também baixar o <a href="https://github.com/higorpo/proffy-backend">back-end</a> da aplicação e executá-lo.</b>
+
 Clone este repositório
 ```sh 
 git clone https://github.com/higorpo/proffy-mobile.git
